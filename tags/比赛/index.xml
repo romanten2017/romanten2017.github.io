@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>比赛 on Even - A super concise theme for Hugo</title>
+    <link>https://romanten2017.github.io/tags/%E6%AF%94%E8%B5%9B/</link>
+    <description>Recent content in 比赛 on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 May 2019 10:52:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://romanten2017.github.io/tags/%E6%AF%94%E8%B5%9B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>第十届蓝桥杯国赛有感</title>
+      <link>https://romanten2017.github.io/post/%E7%AC%AC%E5%8D%81%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%9B%BD%E8%B5%9B%E6%9C%89%E6%84%9F/</link>
+      <pubDate>Sat, 25 May 2019 10:52:00 +0800</pubDate>
+      
+      <guid>https://romanten2017.github.io/post/%E7%AC%AC%E5%8D%81%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%9B%BD%E8%B5%9B%E6%9C%89%E6%84%9F/</guid>
+      <description>去年没拿市一等奖，没去成国赛，有点遗憾 今年算是圆梦了吧🙂 水了一个国一（C/C++B组） 这也是我第一次去北京 帝都的城市氛围还是蛮好的，就是去的</description>
+    </item>
+    
+  </channel>
+</rss>

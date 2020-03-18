@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Even - A super concise theme for Hugo</title>
+    <link>https://romanten2017.github.io/</link>
+    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Mar 2020 11:06:21 +0800</lastBuildDate>
+    
+	<atom:link href="https://romanten2017.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://romanten2017.github.io/about/</link>
+      <pubDate>Wed, 18 Mar 2020 11:06:21 +0800</pubDate>
+      
+      <guid>https://romanten2017.github.io/about/</guid>
+      <description>欢迎来到romanten的Blog 在这我们交流技术分享成果，愿各位都可享受编程的乐趣 能力有限 努力无限 热爱编程 热爱生活 Peace</description>
+    </item>
+    
+    <item>
+      <title>各类排序算法</title>
+      <link>https://romanten2017.github.io/post/%E5%90%84%E7%B1%BB%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</link>
+      <pubDate>Mon, 03 Jun 2019 16:01:00 +0800</pubDate>
+      
+      <guid>https://romanten2017.github.io/post/%E5%90%84%E7%B1%BB%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/</guid>
+      <description>简单介绍各类排序算法，并给出相对应的模板 练习oj P1177 【模板】快速排序 冒泡排序 时间复杂度：O(n2) 类似水中冒气泡的原理 相邻两个气泡之间比较，大</description>
+    </item>
+    
+    <item>
+      <title>第十届蓝桥杯国赛有感</title>
+      <link>https://romanten2017.github.io/post/%E7%AC%AC%E5%8D%81%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%9B%BD%E8%B5%9B%E6%9C%89%E6%84%9F/</link>
+      <pubDate>Sat, 25 May 2019 10:52:00 +0800</pubDate>
+      
+      <guid>https://romanten2017.github.io/post/%E7%AC%AC%E5%8D%81%E5%B1%8A%E8%93%9D%E6%A1%A5%E6%9D%AF%E5%9B%BD%E8%B5%9B%E6%9C%89%E6%84%9F/</guid>
+      <description>去年没拿市一等奖，没去成国赛，有点遗憾 今年算是圆梦了吧🙂 水了一个国一（C/C++B组） 这也是我第一次去北京 帝都的城市氛围还是蛮好的，就是去的</description>
+    </item>
+    
+  </channel>
+</rss>

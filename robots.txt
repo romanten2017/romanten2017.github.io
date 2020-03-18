@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://romanten2017.github.io/sitemap.xml

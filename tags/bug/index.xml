@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bug on Romanten - A concise and connotative blog</title>
+    <link>https://romanten2017.github.io/tags/bug/</link>
+    <description>Recent content in Bug on Romanten - A concise and connotative blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Apr 2020 18:11:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://romanten2017.github.io/tags/bug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Win10输入法</title>
+      <link>https://romanten2017.github.io/post/win10%E8%BE%93%E5%85%A5%E6%B3%95/</link>
+      <pubDate>Wed, 15 Apr 2020 18:11:00 +0800</pubDate>
+      
+      <guid>https://romanten2017.github.io/post/win10%E8%BE%93%E5%85%A5%E6%B3%95/</guid>
+      <description>前言 之前一直用的win10自带的拼音输入法，一直用的还不错。 但是它最近带给我一些很恼人的体验。win10自带的输入法会和一些软件or游戏有冲</description>
+    </item>
+    
+  </channel>
+</rss>
